@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\FAT32_Simulation\FAT32_Simulation\bin\Debug\FAT32_Simulation.exe.config
+C:\Users\DELL\Desktop\FAT32_Simulation\FAT32_Simulation\bin\Debug\FAT32_Simulation.exe
+C:\Users\DELL\Desktop\FAT32_Simulation\FAT32_Simulation\bin\Debug\FAT32_Simulation.pdb
+C:\Users\DELL\Desktop\FAT32_Simulation\FAT32_Simulation\obj\Debug\FAT32_Simulation.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\FAT32_Simulation\FAT32_Simulation\obj\Debug\FAT32_Simulation.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\FAT32_Simulation\FAT32_Simulation\obj\Debug\FAT32_Simulation.exe
+C:\Users\DELL\Desktop\FAT32_Simulation\FAT32_Simulation\obj\Debug\FAT32_Simulation.pdb
